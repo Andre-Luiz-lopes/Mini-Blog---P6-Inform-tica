@@ -27,6 +27,6 @@ Este repositório tem meu projeto desenvolvido para a disciplina de **PWEB2** (u
 - ETC..
 
 ---
-
+OBS: tem que baixar o frontend e o backend para as pastas "node_modules" serem criadas
 
 
